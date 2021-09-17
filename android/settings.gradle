@@ -1,0 +1,3 @@
+rootProject.name = 'hz_camera'
+include ':libs:hzcamerasdk-2.0.0.55'
+

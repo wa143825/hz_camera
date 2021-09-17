@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - hz_camera (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - hz_camera (from `.symlinks/plugins/hz_camera/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  hz_camera:
+    :path: ".symlinks/plugins/hz_camera/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  hz_camera: b9f5d020214b83dd378b698aa08c07ed23e2954b
+
+PODFILE CHECKSUM: 4d4542c7a66fc263abca8b5115ea86d81ac6199a
+
+COCOAPODS: 1.11.2
